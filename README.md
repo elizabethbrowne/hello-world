@@ -1,6 +1,6 @@
-# hello-world
-This is a simple exercise to get the user used to using GitHub aka Just another repository
+hello-world
 ===========================
+
 Hello all!
 
 My name is Elizabeth Browne and I am currently enrolled in the 3+1 program with 
